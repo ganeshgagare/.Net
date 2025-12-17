@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net\Day1\OOP_Inheritance1\bin\Debug\net8.0\OOP_Inheritance1.exe
+C:\Users\IET\Desktop\.Net\Day1\OOP_Inheritance1\bin\Debug\net8.0\OOP_Inheritance1.deps.json
+C:\Users\IET\Desktop\.Net\Day1\OOP_Inheritance1\bin\Debug\net8.0\OOP_Inheritance1.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Day1\OOP_Inheritance1\bin\Debug\net8.0\OOP_Inheritance1.dll
+C:\Users\IET\Desktop\.Net\Day1\OOP_Inheritance1\bin\Debug\net8.0\OOP_Inheritance1.pdb
+C:\Users\IET\Desktop\.Net\Day1\OOP_Inheritance1\obj\Debug\net8.0\OOP_Inheritance1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day1\OOP_Inheritance1\obj\Debug\net8.0\OOP_Inheritance1.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day1\OOP_Inheritance1\obj\Debug\net8.0\OOP_Inheritance1.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day1\OOP_Inheritance1\obj\Debug\net8.0\OOP_Inheritance1.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day1\OOP_Inheritance1\obj\Debug\net8.0\OOP_Inheritance1.dll
+C:\Users\IET\Desktop\.Net\Day1\OOP_Inheritance1\obj\Debug\net8.0\refint\OOP_Inheritance1.dll
+C:\Users\IET\Desktop\.Net\Day1\OOP_Inheritance1\obj\Debug\net8.0\OOP_Inheritance1.pdb
+C:\Users\IET\Desktop\.Net\Day1\OOP_Inheritance1\obj\Debug\net8.0\OOP_Inheritance1.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Day1\OOP_Inheritance1\obj\Debug\net8.0\ref\OOP_Inheritance1.dll

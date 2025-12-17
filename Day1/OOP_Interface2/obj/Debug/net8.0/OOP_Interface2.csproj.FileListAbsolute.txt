@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net\Day1\OOP_Interface2\bin\Debug\net8.0\OOP_Interface2.exe
+C:\Users\IET\Desktop\.Net\Day1\OOP_Interface2\bin\Debug\net8.0\OOP_Interface2.deps.json
+C:\Users\IET\Desktop\.Net\Day1\OOP_Interface2\bin\Debug\net8.0\OOP_Interface2.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Day1\OOP_Interface2\bin\Debug\net8.0\OOP_Interface2.dll
+C:\Users\IET\Desktop\.Net\Day1\OOP_Interface2\bin\Debug\net8.0\OOP_Interface2.pdb
+C:\Users\IET\Desktop\.Net\Day1\OOP_Interface2\obj\Debug\net8.0\OOP_Interface2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day1\OOP_Interface2\obj\Debug\net8.0\OOP_Interface2.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day1\OOP_Interface2\obj\Debug\net8.0\OOP_Interface2.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day1\OOP_Interface2\obj\Debug\net8.0\OOP_Interface2.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day1\OOP_Interface2\obj\Debug\net8.0\OOP_Interface2.dll
+C:\Users\IET\Desktop\.Net\Day1\OOP_Interface2\obj\Debug\net8.0\refint\OOP_Interface2.dll
+C:\Users\IET\Desktop\.Net\Day1\OOP_Interface2\obj\Debug\net8.0\OOP_Interface2.pdb
+C:\Users\IET\Desktop\.Net\Day1\OOP_Interface2\obj\Debug\net8.0\OOP_Interface2.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Day1\OOP_Interface2\obj\Debug\net8.0\ref\OOP_Interface2.dll

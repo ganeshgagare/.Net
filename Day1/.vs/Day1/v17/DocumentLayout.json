@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48E32CE7-9277-4023-A178-F21C1302F6D0}|Oop_Interface\\Oop_Interface.csproj|c:\\users\\iet\\desktop\\.net\\day1\\oop_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E32CE7-9277-4023-A178-F21C1302F6D0}|Oop_Interface\\Oop_Interface.csproj|solutionrelative:oop_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A9BC58-7E04-4620-84CF-D58A477CFDA4}|OOP_Inheritance2\\OOP_Inheritance2.csproj|c:\\users\\iet\\desktop\\.net\\day1\\oop_inheritance2\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A9BC58-7E04-4620-84CF-D58A477CFDA4}|OOP_Inheritance2\\OOP_Inheritance2.csproj|solutionrelative:oop_inheritance2\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A9BC58-7E04-4620-84CF-D58A477CFDA4}|OOP_Inheritance2\\OOP_Inheritance2.csproj|c:\\users\\iet\\desktop\\.net\\day1\\oop_inheritance2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A9BC58-7E04-4620-84CF-D58A477CFDA4}|OOP_Inheritance2\\OOP_Inheritance2.csproj|solutionrelative:oop_inheritance2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A9BC58-7E04-4620-84CF-D58A477CFDA4}|OOP_Inheritance2\\OOP_Inheritance2.csproj|c:\\users\\iet\\desktop\\.net\\day1\\oop_inheritance2\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A9BC58-7E04-4620-84CF-D58A477CFDA4}|OOP_Inheritance2\\OOP_Inheritance2.csproj|solutionrelative:oop_inheritance2\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A9BC58-7E04-4620-84CF-D58A477CFDA4}|OOP_Inheritance2\\OOP_Inheritance2.csproj|c:\\users\\iet\\desktop\\.net\\day1\\oop_inheritance2\\oop_inheritance2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2A9BC58-7E04-4620-84CF-D58A477CFDA4}|OOP_Inheritance2\\OOP_Inheritance2.csproj|solutionrelative:oop_inheritance2\\oop_inheritance2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242AAA8C-B6F1-4261-910B-D2538EECA60A}|OOP_Inheritance1\\OOP_Inheritance1.csproj|c:\\users\\iet\\desktop\\.net\\day1\\oop_inheritance1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{242AAA8C-B6F1-4261-910B-D2538EECA60A}|OOP_Inheritance1\\OOP_Inheritance1.csproj|solutionrelative:oop_inheritance1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242AAA8C-B6F1-4261-910B-D2538EECA60A}|OOP_Inheritance1\\OOP_Inheritance1.csproj|c:\\users\\iet\\desktop\\.net\\day1\\oop_inheritance1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{242AAA8C-B6F1-4261-910B-D2538EECA60A}|OOP_Inheritance1\\OOP_Inheritance1.csproj|solutionrelative:oop_inheritance1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F56E9A-0A22-4770-BF21-D70E384A80ED}|OOP_Basics\\OOP_Basics.csproj|c:\\users\\iet\\desktop\\.net\\day1\\oop_basics\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F56E9A-0A22-4770-BF21-D70E384A80ED}|OOP_Basics\\OOP_Basics.csproj|solutionrelative:oop_basics\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F56E9A-0A22-4770-BF21-D70E384A80ED}|OOP_Basics\\OOP_Basics.csproj|c:\\users\\iet\\desktop\\.net\\day1\\oop_basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F56E9A-0A22-4770-BF21-D70E384A80ED}|OOP_Basics\\OOP_Basics.csproj|solutionrelative:oop_basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7022B349-5708-4EBC-AE69-A4FDD7839DD4}|OOP_Interface2\\OOP_Interface2.csproj|c:\\users\\iet\\desktop\\.net\\day1\\oop_interface2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7022B349-5708-4EBC-AE69-A4FDD7839DD4}|OOP_Interface2\\OOP_Interface2.csproj|solutionrelative:oop_interface2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E407832A-49C2-40EA-A586-A3B030AD39CA}|Day1\\Day1.csproj|c:\\users\\iet\\desktop\\.net\\day1\\day1\\day1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E407832A-49C2-40EA-A586-A3B030AD39CA}|Day1\\Day1.csproj|solutionrelative:day1\\day1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E407832A-49C2-40EA-A586-A3B030AD39CA}|Day1\\Day1.csproj|c:\\users\\iet\\desktop\\.net\\day1\\day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E407832A-49C2-40EA-A586-A3B030AD39CA}|Day1\\Day1.csproj|solutionrelative:day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OOP_Inheritance2",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\OOP_Inheritance2\\OOP_Inheritance2.csproj",
+              "RelativeDocumentMoniker": "OOP_Inheritance2\\OOP_Inheritance2.csproj",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\OOP_Inheritance2\\OOP_Inheritance2.csproj",
+              "RelativeToolTip": "OOP_Inheritance2\\OOP_Inheritance2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-16T02:45:52.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\OOP_Inheritance1\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_Inheritance1\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\OOP_Inheritance1\\Program.cs",
+              "RelativeToolTip": "OOP_Inheritance1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:48:30.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\OOP_Inheritance2\\Demo.cs",
+              "RelativeDocumentMoniker": "OOP_Inheritance2\\Demo.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\OOP_Inheritance2\\Demo.cs",
+              "RelativeToolTip": "OOP_Inheritance2\\Demo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T23:15:28.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\OOP_Inheritance2\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_Inheritance2\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\OOP_Inheritance2\\Program.cs",
+              "RelativeToolTip": "OOP_Inheritance2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T23:14:55.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\OOP_Inheritance2\\Test.cs",
+              "RelativeDocumentMoniker": "OOP_Inheritance2\\Test.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\OOP_Inheritance2\\Test.cs",
+              "RelativeToolTip": "OOP_Inheritance2\\Test.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T23:15:39.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\Oop_Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Oop_Interface\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\Oop_Interface\\Program.cs",
+              "RelativeToolTip": "Oop_Interface\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T00:42:24.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\OOP_Basics\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_Basics\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\OOP_Basics\\Program.cs",
+              "RelativeToolTip": "OOP_Basics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:35:58.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyClass.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\OOP_Basics\\MyClass.cs",
+              "RelativeDocumentMoniker": "OOP_Basics\\MyClass.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\OOP_Basics\\MyClass.cs",
+              "RelativeToolTip": "OOP_Basics\\MyClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:36:42.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\OOP_Inheritance1\\Person.cs",
+              "RelativeDocumentMoniker": "OOP_Inheritance1\\Person.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\OOP_Inheritance1\\Person.cs",
+              "RelativeToolTip": "OOP_Inheritance1\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T23:00:39.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\OOP_Interface2\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_Interface2\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\OOP_Interface2\\Program.cs",
+              "RelativeToolTip": "OOP_Interface2\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA0wCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T01:38:22.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Day1.csproj",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\Day1\\Day1.csproj",
+              "RelativeDocumentMoniker": "Day1\\Day1.csproj",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\Day1\\Day1.csproj",
+              "RelativeToolTip": "Day1\\Day1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-15T22:34:34.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\Day1\\Program.cs",
+              "RelativeDocumentMoniker": "Day1\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day1\\Day1\\Program.cs",
+              "RelativeToolTip": "Day1\\Program.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAqwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T20:45:20.059Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
