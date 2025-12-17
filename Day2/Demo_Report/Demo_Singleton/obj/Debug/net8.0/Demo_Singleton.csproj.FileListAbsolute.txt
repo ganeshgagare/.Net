@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_Singleton\bin\Debug\net8.0\Demo_Singleton.exe
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_Singleton\bin\Debug\net8.0\Demo_Singleton.deps.json
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_Singleton\bin\Debug\net8.0\Demo_Singleton.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_Singleton\bin\Debug\net8.0\Demo_Singleton.dll
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_Singleton\bin\Debug\net8.0\Demo_Singleton.pdb
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_Singleton\obj\Debug\net8.0\Demo_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_Singleton\obj\Debug\net8.0\Demo_Singleton.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_Singleton\obj\Debug\net8.0\Demo_Singleton.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_Singleton\obj\Debug\net8.0\Demo_Singleton.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_Singleton\obj\Debug\net8.0\Demo_Singleton.sourcelink.json
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_Singleton\obj\Debug\net8.0\Demo_Singleton.dll
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_Singleton\obj\Debug\net8.0\refint\Demo_Singleton.dll
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_Singleton\obj\Debug\net8.0\Demo_Singleton.pdb
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_Singleton\obj\Debug\net8.0\Demo_Singleton.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_Singleton\obj\Debug\net8.0\ref\Demo_Singleton.dll

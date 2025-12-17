@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_SealedClass\bin\Debug\net8.0\Demo_SealedClass.exe
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_SealedClass\bin\Debug\net8.0\Demo_SealedClass.deps.json
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_SealedClass\bin\Debug\net8.0\Demo_SealedClass.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_SealedClass\bin\Debug\net8.0\Demo_SealedClass.dll
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_SealedClass\bin\Debug\net8.0\Demo_SealedClass.pdb
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_SealedClass\obj\Debug\net8.0\Demo_SealedClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_SealedClass\obj\Debug\net8.0\Demo_SealedClass.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_SealedClass\obj\Debug\net8.0\Demo_SealedClass.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_SealedClass\obj\Debug\net8.0\Demo_SealedClass.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_SealedClass\obj\Debug\net8.0\Demo_SealedClass.sourcelink.json
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_SealedClass\obj\Debug\net8.0\Demo_SealedClass.dll
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_SealedClass\obj\Debug\net8.0\refint\Demo_SealedClass.dll
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_SealedClass\obj\Debug\net8.0\Demo_SealedClass.pdb
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_SealedClass\obj\Debug\net8.0\Demo_SealedClass.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Day2\Demo_Report\Demo_SealedClass\obj\Debug\net8.0\ref\Demo_SealedClass.dll
