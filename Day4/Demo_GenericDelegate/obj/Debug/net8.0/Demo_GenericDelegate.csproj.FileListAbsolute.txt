@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\Day4\Demo_GenericDelegate\bin\Debug\net8.0\Demo_GenericDelegate.exe
+C:\Users\IET\Desktop\.Net\Day4\Demo_GenericDelegate\bin\Debug\net8.0\Demo_GenericDelegate.deps.json
+C:\Users\IET\Desktop\.Net\Day4\Demo_GenericDelegate\bin\Debug\net8.0\Demo_GenericDelegate.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Day4\Demo_GenericDelegate\bin\Debug\net8.0\Demo_GenericDelegate.dll
+C:\Users\IET\Desktop\.Net\Day4\Demo_GenericDelegate\bin\Debug\net8.0\Demo_GenericDelegate.pdb
+C:\Users\IET\Desktop\.Net\Day4\Demo_GenericDelegate\obj\Debug\net8.0\Demo_GenericDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day4\Demo_GenericDelegate\obj\Debug\net8.0\Demo_GenericDelegate.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day4\Demo_GenericDelegate\obj\Debug\net8.0\Demo_GenericDelegate.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day4\Demo_GenericDelegate\obj\Debug\net8.0\Demo_GenericDelegate.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day4\Demo_GenericDelegate\obj\Debug\net8.0\Demo_GenericDelegate.sourcelink.json
+C:\Users\IET\Desktop\.Net\Day4\Demo_GenericDelegate\obj\Debug\net8.0\Demo_GenericDelegate.dll
+C:\Users\IET\Desktop\.Net\Day4\Demo_GenericDelegate\obj\Debug\net8.0\refint\Demo_GenericDelegate.dll
+C:\Users\IET\Desktop\.Net\Day4\Demo_GenericDelegate\obj\Debug\net8.0\Demo_GenericDelegate.pdb
+C:\Users\IET\Desktop\.Net\Day4\Demo_GenericDelegate\obj\Debug\net8.0\Demo_GenericDelegate.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Day4\Demo_GenericDelegate\obj\Debug\net8.0\ref\Demo_GenericDelegate.dll

@@ -1,0 +1,12 @@
+C:\Users\IET\Desktop\.Net\Day6\Demo_CustomAttributes\bin\Debug\net8.0\Demo_CustomAttributes.deps.json
+C:\Users\IET\Desktop\.Net\Day6\Demo_CustomAttributes\bin\Debug\net8.0\Demo_CustomAttributes.dll
+C:\Users\IET\Desktop\.Net\Day6\Demo_CustomAttributes\bin\Debug\net8.0\Demo_CustomAttributes.pdb
+C:\Users\IET\Desktop\.Net\Day6\Demo_CustomAttributes\obj\Debug\net8.0\Demo_CustomAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day6\Demo_CustomAttributes\obj\Debug\net8.0\Demo_CustomAttributes.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day6\Demo_CustomAttributes\obj\Debug\net8.0\Demo_CustomAttributes.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day6\Demo_CustomAttributes\obj\Debug\net8.0\Demo_CustomAttributes.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day6\Demo_CustomAttributes\obj\Debug\net8.0\Demo_CustomAttributes.sourcelink.json
+C:\Users\IET\Desktop\.Net\Day6\Demo_CustomAttributes\obj\Debug\net8.0\Demo_CustomAttributes.dll
+C:\Users\IET\Desktop\.Net\Day6\Demo_CustomAttributes\obj\Debug\net8.0\refint\Demo_CustomAttributes.dll
+C:\Users\IET\Desktop\.Net\Day6\Demo_CustomAttributes\obj\Debug\net8.0\Demo_CustomAttributes.pdb
+C:\Users\IET\Desktop\.Net\Day6\Demo_CustomAttributes\obj\Debug\net8.0\ref\Demo_CustomAttributes.dll

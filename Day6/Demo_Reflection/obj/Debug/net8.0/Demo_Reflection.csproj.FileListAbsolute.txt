@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\Day6\Demo_Reflection\obj\Debug\net8.0\Demo_Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day6\Demo_Reflection\obj\Debug\net8.0\Demo_Reflection.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day6\Demo_Reflection\obj\Debug\net8.0\Demo_Reflection.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day6\Demo_Reflection\obj\Debug\net8.0\Demo_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day6\Demo_Reflection\obj\Debug\net8.0\Demo_Reflection.sourcelink.json
+C:\Users\IET\Desktop\.Net\Day6\Demo_Reflection\bin\Debug\net8.0\Demo_Reflection.exe
+C:\Users\IET\Desktop\.Net\Day6\Demo_Reflection\bin\Debug\net8.0\Demo_Reflection.deps.json
+C:\Users\IET\Desktop\.Net\Day6\Demo_Reflection\bin\Debug\net8.0\Demo_Reflection.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Day6\Demo_Reflection\bin\Debug\net8.0\Demo_Reflection.dll
+C:\Users\IET\Desktop\.Net\Day6\Demo_Reflection\bin\Debug\net8.0\Demo_Reflection.pdb
+C:\Users\IET\Desktop\.Net\Day6\Demo_Reflection\obj\Debug\net8.0\Demo_Reflection.dll
+C:\Users\IET\Desktop\.Net\Day6\Demo_Reflection\obj\Debug\net8.0\refint\Demo_Reflection.dll
+C:\Users\IET\Desktop\.Net\Day6\Demo_Reflection\obj\Debug\net8.0\Demo_Reflection.pdb
+C:\Users\IET\Desktop\.Net\Day6\Demo_Reflection\obj\Debug\net8.0\Demo_Reflection.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Day6\Demo_Reflection\obj\Debug\net8.0\ref\Demo_Reflection.dll

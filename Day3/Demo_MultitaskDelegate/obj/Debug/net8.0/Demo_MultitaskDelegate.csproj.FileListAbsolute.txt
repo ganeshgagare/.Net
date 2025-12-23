@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\Day3\Demo_MultitaskDelegate\bin\Debug\net8.0\Demo_MultitaskDelegate.exe
+C:\Users\IET\Desktop\.Net\Day3\Demo_MultitaskDelegate\bin\Debug\net8.0\Demo_MultitaskDelegate.deps.json
+C:\Users\IET\Desktop\.Net\Day3\Demo_MultitaskDelegate\bin\Debug\net8.0\Demo_MultitaskDelegate.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Day3\Demo_MultitaskDelegate\bin\Debug\net8.0\Demo_MultitaskDelegate.dll
+C:\Users\IET\Desktop\.Net\Day3\Demo_MultitaskDelegate\bin\Debug\net8.0\Demo_MultitaskDelegate.pdb
+C:\Users\IET\Desktop\.Net\Day3\Demo_MultitaskDelegate\obj\Debug\net8.0\Demo_MultitaskDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day3\Demo_MultitaskDelegate\obj\Debug\net8.0\Demo_MultitaskDelegate.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day3\Demo_MultitaskDelegate\obj\Debug\net8.0\Demo_MultitaskDelegate.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day3\Demo_MultitaskDelegate\obj\Debug\net8.0\Demo_MultitaskDelegate.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day3\Demo_MultitaskDelegate\obj\Debug\net8.0\Demo_MultitaskDelegate.sourcelink.json
+C:\Users\IET\Desktop\.Net\Day3\Demo_MultitaskDelegate\obj\Debug\net8.0\Demo_MultitaskDelegate.dll
+C:\Users\IET\Desktop\.Net\Day3\Demo_MultitaskDelegate\obj\Debug\net8.0\refint\Demo_MultitaskDelegate.dll
+C:\Users\IET\Desktop\.Net\Day3\Demo_MultitaskDelegate\obj\Debug\net8.0\Demo_MultitaskDelegate.pdb
+C:\Users\IET\Desktop\.Net\Day3\Demo_MultitaskDelegate\obj\Debug\net8.0\Demo_MultitaskDelegate.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Day3\Demo_MultitaskDelegate\obj\Debug\net8.0\ref\Demo_MultitaskDelegate.dll

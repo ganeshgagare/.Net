@@ -1,0 +1,12 @@
+C:\Users\IET\Desktop\.Net\Day6\Demo_BVSAttribute\bin\Debug\net8.0\Demo_BVSAttribute.deps.json
+C:\Users\IET\Desktop\.Net\Day6\Demo_BVSAttribute\bin\Debug\net8.0\Demo_BVSAttribute.dll
+C:\Users\IET\Desktop\.Net\Day6\Demo_BVSAttribute\bin\Debug\net8.0\Demo_BVSAttribute.pdb
+C:\Users\IET\Desktop\.Net\Day6\Demo_BVSAttribute\obj\Debug\net8.0\Demo_BVSAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day6\Demo_BVSAttribute\obj\Debug\net8.0\Demo_BVSAttribute.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day6\Demo_BVSAttribute\obj\Debug\net8.0\Demo_BVSAttribute.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day6\Demo_BVSAttribute\obj\Debug\net8.0\Demo_BVSAttribute.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day6\Demo_BVSAttribute\obj\Debug\net8.0\Demo_BVSAttribute.sourcelink.json
+C:\Users\IET\Desktop\.Net\Day6\Demo_BVSAttribute\obj\Debug\net8.0\Demo_BVSAttribute.dll
+C:\Users\IET\Desktop\.Net\Day6\Demo_BVSAttribute\obj\Debug\net8.0\refint\Demo_BVSAttribute.dll
+C:\Users\IET\Desktop\.Net\Day6\Demo_BVSAttribute\obj\Debug\net8.0\Demo_BVSAttribute.pdb
+C:\Users\IET\Desktop\.Net\Day6\Demo_BVSAttribute\obj\Debug\net8.0\ref\Demo_BVSAttribute.dll

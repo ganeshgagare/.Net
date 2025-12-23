@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\Day6\CSharp_Features\obj\Debug\net8.0\CSharp_Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day6\CSharp_Features\obj\Debug\net8.0\CSharp_Features.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day6\CSharp_Features\obj\Debug\net8.0\CSharp_Features.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day6\CSharp_Features\obj\Debug\net8.0\CSharp_Features.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day6\CSharp_Features\obj\Debug\net8.0\CSharp_Features.sourcelink.json
+C:\Users\IET\Desktop\.Net\Day6\CSharp_Features\bin\Debug\net8.0\CSharp_Features.exe
+C:\Users\IET\Desktop\.Net\Day6\CSharp_Features\bin\Debug\net8.0\CSharp_Features.deps.json
+C:\Users\IET\Desktop\.Net\Day6\CSharp_Features\bin\Debug\net8.0\CSharp_Features.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Day6\CSharp_Features\bin\Debug\net8.0\CSharp_Features.dll
+C:\Users\IET\Desktop\.Net\Day6\CSharp_Features\bin\Debug\net8.0\CSharp_Features.pdb
+C:\Users\IET\Desktop\.Net\Day6\CSharp_Features\obj\Debug\net8.0\CSharp_Features.dll
+C:\Users\IET\Desktop\.Net\Day6\CSharp_Features\obj\Debug\net8.0\refint\CSharp_Features.dll
+C:\Users\IET\Desktop\.Net\Day6\CSharp_Features\obj\Debug\net8.0\CSharp_Features.pdb
+C:\Users\IET\Desktop\.Net\Day6\CSharp_Features\obj\Debug\net8.0\CSharp_Features.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Day6\CSharp_Features\obj\Debug\net8.0\ref\CSharp_Features.dll

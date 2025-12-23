@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\Day3\Demo_Properties\bin\Debug\net8.0\Demo_Properties.exe
+C:\Users\IET\Desktop\.Net\Day3\Demo_Properties\bin\Debug\net8.0\Demo_Properties.deps.json
+C:\Users\IET\Desktop\.Net\Day3\Demo_Properties\bin\Debug\net8.0\Demo_Properties.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Day3\Demo_Properties\bin\Debug\net8.0\Demo_Properties.dll
+C:\Users\IET\Desktop\.Net\Day3\Demo_Properties\bin\Debug\net8.0\Demo_Properties.pdb
+C:\Users\IET\Desktop\.Net\Day3\Demo_Properties\obj\Debug\net8.0\Demo_Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day3\Demo_Properties\obj\Debug\net8.0\Demo_Properties.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day3\Demo_Properties\obj\Debug\net8.0\Demo_Properties.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day3\Demo_Properties\obj\Debug\net8.0\Demo_Properties.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day3\Demo_Properties\obj\Debug\net8.0\Demo_Properties.sourcelink.json
+C:\Users\IET\Desktop\.Net\Day3\Demo_Properties\obj\Debug\net8.0\Demo_Properties.dll
+C:\Users\IET\Desktop\.Net\Day3\Demo_Properties\obj\Debug\net8.0\refint\Demo_Properties.dll
+C:\Users\IET\Desktop\.Net\Day3\Demo_Properties\obj\Debug\net8.0\Demo_Properties.pdb
+C:\Users\IET\Desktop\.Net\Day3\Demo_Properties\obj\Debug\net8.0\Demo_Properties.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Day3\Demo_Properties\obj\Debug\net8.0\ref\Demo_Properties.dll

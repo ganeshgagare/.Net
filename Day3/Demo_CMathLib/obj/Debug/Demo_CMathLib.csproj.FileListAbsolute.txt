@@ -1,0 +1,6 @@
+C:\Users\IET\Desktop\.Net\Day3\Demo_CMathLib\bin\Debug\Demo_CMathLib.dll
+C:\Users\IET\Desktop\.Net\Day3\Demo_CMathLib\bin\Debug\Demo_CMathLib.pdb
+C:\Users\IET\Desktop\.Net\Day3\Demo_CMathLib\obj\Debug\Demo_CMathLib.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\.Net\Day3\Demo_CMathLib\obj\Debug\Demo_CMathLib.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day3\Demo_CMathLib\obj\Debug\Demo_CMathLib.dll
+C:\Users\IET\Desktop\.Net\Day3\Demo_CMathLib\obj\Debug\Demo_CMathLib.pdb

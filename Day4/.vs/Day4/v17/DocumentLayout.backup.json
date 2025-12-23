@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\.Net\\Day4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F38EAA-D438-45BE-AB35-D5E2980FA89F}|Demo_Generic\\Demo_Generic.csproj|c:\\users\\iet\\desktop\\.net\\day4\\demo_generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F38EAA-D438-45BE-AB35-D5E2980FA89F}|Demo_Generic\\Demo_Generic.csproj|solutionrelative:demo_generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5F9042-934F-41CA-95FC-B332BF993DE9}|Demo_Collection\\Demo_Collection.csproj|c:\\users\\iet\\desktop\\.net\\day4\\demo_collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5F9042-934F-41CA-95FC-B332BF993DE9}|Demo_Collection\\Demo_Collection.csproj|solutionrelative:demo_collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79E2DE8-6522-46B7-A1AD-2ADEC8B7DE84}|Demo_GenericCollections\\Demo_GenericCollections.csproj|c:\\users\\iet\\desktop\\.net\\day4\\demo_genericcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79E2DE8-6522-46B7-A1AD-2ADEC8B7DE84}|Demo_GenericCollections\\Demo_GenericCollections.csproj|solutionrelative:demo_genericcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F38EAA-D438-45BE-AB35-D5E2980FA89F}|Demo_Generic\\Demo_Generic.csproj|c:\\users\\iet\\desktop\\.net\\day4\\demo_generic\\demo_generic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8F38EAA-D438-45BE-AB35-D5E2980FA89F}|Demo_Generic\\Demo_Generic.csproj|solutionrelative:demo_generic\\demo_generic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F6D6BC-6F38-4C09-8FD4-620F2200343B}|Demo_GenericDelegate\\Demo_GenericDelegate.csproj|c:\\users\\iet\\desktop\\.net\\day4\\demo_genericdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F6D6BC-6F38-4C09-8FD4-620F2200343B}|Demo_GenericDelegate\\Demo_GenericDelegate.csproj|solutionrelative:demo_genericdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F6D6BC-6F38-4C09-8FD4-620F2200343B}|Demo_GenericDelegate\\Demo_GenericDelegate.csproj|c:\\users\\iet\\desktop\\.net\\day4\\demo_genericdelegate\\demo_genericdelegate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1F6D6BC-6F38-4C09-8FD4-620F2200343B}|Demo_GenericDelegate\\Demo_GenericDelegate.csproj|solutionrelative:demo_genericdelegate\\demo_genericdelegate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49AB456-C255-42C4-9183-120DF81E6E6A}|Demo_ObserverPattern\\Demo_ObserverPattern.csproj|c:\\users\\iet\\desktop\\.net\\day4\\demo_observerpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49AB456-C255-42C4-9183-120DF81E6E6A}|Demo_ObserverPattern\\Demo_ObserverPattern.csproj|solutionrelative:demo_observerpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Demo_Generic",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day4\\Demo_Generic\\Demo_Generic.csproj",
+              "RelativeDocumentMoniker": "Demo_Generic\\Demo_Generic.csproj",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day4\\Demo_Generic\\Demo_Generic.csproj",
+              "RelativeToolTip": "Demo_Generic\\Demo_Generic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-19T01:50:53.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day4\\Demo_GenericDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_GenericDelegate\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day4\\Demo_GenericDelegate\\Program.cs",
+              "RelativeToolTip": "Demo_GenericDelegate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T01:28:59.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day4\\Demo_Generic\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_Generic\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day4\\Demo_Generic\\Program.cs",
+              "RelativeToolTip": "Demo_Generic\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwFIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T01:25:42.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day4\\Demo_Collection\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_Collection\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day4\\Demo_Collection\\Program.cs",
+              "RelativeToolTip": "Demo_Collection\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwPsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T01:13:59.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day4\\Demo_GenericCollections\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_GenericCollections\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day4\\Demo_GenericCollections\\Program.cs",
+              "RelativeToolTip": "Demo_GenericCollections\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T01:27:31.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Demo_GenericDelegate",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day4\\Demo_GenericDelegate\\Demo_GenericDelegate.csproj",
+              "RelativeDocumentMoniker": "Demo_GenericDelegate\\Demo_GenericDelegate.csproj",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day4\\Demo_GenericDelegate\\Demo_GenericDelegate.csproj",
+              "RelativeToolTip": "Demo_GenericDelegate\\Demo_GenericDelegate.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-19T01:50:38.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day4\\Demo_ObserverPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_ObserverPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day4\\Demo_ObserverPattern\\Program.cs",
+              "RelativeToolTip": "Demo_ObserverPattern\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T01:07:19.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

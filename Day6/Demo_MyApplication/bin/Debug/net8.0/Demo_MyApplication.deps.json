@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Demo_MyApplication/1.0.0": {
+        "dependencies": {
+          "Demo_BVSAttribute": "1.0.0"
+        },
+        "runtime": {
+          "Demo_MyApplication.dll": {}
+        }
+      },
+      "Demo_BVSAttribute/1.0.0": {
+        "runtime": {
+          "Demo_BVSAttribute.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo_MyApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Demo_BVSAttribute/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

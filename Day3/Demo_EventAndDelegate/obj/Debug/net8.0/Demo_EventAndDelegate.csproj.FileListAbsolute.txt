@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\Day3\Demo_EventAndDelegate\bin\Debug\net8.0\Demo_EventAndDelegate.exe
+C:\Users\IET\Desktop\.Net\Day3\Demo_EventAndDelegate\bin\Debug\net8.0\Demo_EventAndDelegate.deps.json
+C:\Users\IET\Desktop\.Net\Day3\Demo_EventAndDelegate\bin\Debug\net8.0\Demo_EventAndDelegate.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Day3\Demo_EventAndDelegate\bin\Debug\net8.0\Demo_EventAndDelegate.dll
+C:\Users\IET\Desktop\.Net\Day3\Demo_EventAndDelegate\bin\Debug\net8.0\Demo_EventAndDelegate.pdb
+C:\Users\IET\Desktop\.Net\Day3\Demo_EventAndDelegate\obj\Debug\net8.0\Demo_EventAndDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day3\Demo_EventAndDelegate\obj\Debug\net8.0\Demo_EventAndDelegate.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day3\Demo_EventAndDelegate\obj\Debug\net8.0\Demo_EventAndDelegate.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day3\Demo_EventAndDelegate\obj\Debug\net8.0\Demo_EventAndDelegate.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day3\Demo_EventAndDelegate\obj\Debug\net8.0\Demo_EventAndDelegate.sourcelink.json
+C:\Users\IET\Desktop\.Net\Day3\Demo_EventAndDelegate\obj\Debug\net8.0\Demo_EventAndDelegate.dll
+C:\Users\IET\Desktop\.Net\Day3\Demo_EventAndDelegate\obj\Debug\net8.0\refint\Demo_EventAndDelegate.dll
+C:\Users\IET\Desktop\.Net\Day3\Demo_EventAndDelegate\obj\Debug\net8.0\Demo_EventAndDelegate.pdb
+C:\Users\IET\Desktop\.Net\Day3\Demo_EventAndDelegate\obj\Debug\net8.0\Demo_EventAndDelegate.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Day3\Demo_EventAndDelegate\obj\Debug\net8.0\ref\Demo_EventAndDelegate.dll

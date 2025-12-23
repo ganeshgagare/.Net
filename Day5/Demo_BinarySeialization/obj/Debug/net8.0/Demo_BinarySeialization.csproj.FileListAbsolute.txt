@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\Day5\Demo_BinarySeialization\bin\Debug\net8.0\Demo_BinarySeialization.exe
+C:\Users\IET\Desktop\.Net\Day5\Demo_BinarySeialization\bin\Debug\net8.0\Demo_BinarySeialization.deps.json
+C:\Users\IET\Desktop\.Net\Day5\Demo_BinarySeialization\bin\Debug\net8.0\Demo_BinarySeialization.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Day5\Demo_BinarySeialization\bin\Debug\net8.0\Demo_BinarySeialization.dll
+C:\Users\IET\Desktop\.Net\Day5\Demo_BinarySeialization\bin\Debug\net8.0\Demo_BinarySeialization.pdb
+C:\Users\IET\Desktop\.Net\Day5\Demo_BinarySeialization\obj\Debug\net8.0\Demo_BinarySeialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day5\Demo_BinarySeialization\obj\Debug\net8.0\Demo_BinarySeialization.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day5\Demo_BinarySeialization\obj\Debug\net8.0\Demo_BinarySeialization.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day5\Demo_BinarySeialization\obj\Debug\net8.0\Demo_BinarySeialization.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day5\Demo_BinarySeialization\obj\Debug\net8.0\Demo_BinarySeialization.sourcelink.json
+C:\Users\IET\Desktop\.Net\Day5\Demo_BinarySeialization\obj\Debug\net8.0\Demo_BinarySeialization.dll
+C:\Users\IET\Desktop\.Net\Day5\Demo_BinarySeialization\obj\Debug\net8.0\refint\Demo_BinarySeialization.dll
+C:\Users\IET\Desktop\.Net\Day5\Demo_BinarySeialization\obj\Debug\net8.0\Demo_BinarySeialization.pdb
+C:\Users\IET\Desktop\.Net\Day5\Demo_BinarySeialization\obj\Debug\net8.0\Demo_BinarySeialization.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Day5\Demo_BinarySeialization\obj\Debug\net8.0\ref\Demo_BinarySeialization.dll
