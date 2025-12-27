@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\Day8\LINQ_4\bin\Debug\net8.0\LINQ_4.exe
+C:\Users\IET\Desktop\.Net\Day8\LINQ_4\bin\Debug\net8.0\LINQ_4.deps.json
+C:\Users\IET\Desktop\.Net\Day8\LINQ_4\bin\Debug\net8.0\LINQ_4.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Day8\LINQ_4\bin\Debug\net8.0\LINQ_4.dll
+C:\Users\IET\Desktop\.Net\Day8\LINQ_4\bin\Debug\net8.0\LINQ_4.pdb
+C:\Users\IET\Desktop\.Net\Day8\LINQ_4\obj\Debug\net8.0\LINQ_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day8\LINQ_4\obj\Debug\net8.0\LINQ_4.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day8\LINQ_4\obj\Debug\net8.0\LINQ_4.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day8\LINQ_4\obj\Debug\net8.0\LINQ_4.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day8\LINQ_4\obj\Debug\net8.0\LINQ_4.sourcelink.json
+C:\Users\IET\Desktop\.Net\Day8\LINQ_4\obj\Debug\net8.0\LINQ_4.dll
+C:\Users\IET\Desktop\.Net\Day8\LINQ_4\obj\Debug\net8.0\refint\LINQ_4.dll
+C:\Users\IET\Desktop\.Net\Day8\LINQ_4\obj\Debug\net8.0\LINQ_4.pdb
+C:\Users\IET\Desktop\.Net\Day8\LINQ_4\obj\Debug\net8.0\LINQ_4.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Day8\LINQ_4\obj\Debug\net8.0\ref\LINQ_4.dll

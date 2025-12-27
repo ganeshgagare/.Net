@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\Day7\LINQ_1\bin\Debug\net8.0\LINQ_1.exe
+C:\Users\IET\Desktop\.Net\Day7\LINQ_1\bin\Debug\net8.0\LINQ_1.deps.json
+C:\Users\IET\Desktop\.Net\Day7\LINQ_1\bin\Debug\net8.0\LINQ_1.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Day7\LINQ_1\bin\Debug\net8.0\LINQ_1.dll
+C:\Users\IET\Desktop\.Net\Day7\LINQ_1\bin\Debug\net8.0\LINQ_1.pdb
+C:\Users\IET\Desktop\.Net\Day7\LINQ_1\obj\Debug\net8.0\LINQ_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day7\LINQ_1\obj\Debug\net8.0\LINQ_1.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day7\LINQ_1\obj\Debug\net8.0\LINQ_1.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day7\LINQ_1\obj\Debug\net8.0\LINQ_1.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day7\LINQ_1\obj\Debug\net8.0\LINQ_1.sourcelink.json
+C:\Users\IET\Desktop\.Net\Day7\LINQ_1\obj\Debug\net8.0\LINQ_1.dll
+C:\Users\IET\Desktop\.Net\Day7\LINQ_1\obj\Debug\net8.0\refint\LINQ_1.dll
+C:\Users\IET\Desktop\.Net\Day7\LINQ_1\obj\Debug\net8.0\LINQ_1.pdb
+C:\Users\IET\Desktop\.Net\Day7\LINQ_1\obj\Debug\net8.0\LINQ_1.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Day7\LINQ_1\obj\Debug\net8.0\ref\LINQ_1.dll

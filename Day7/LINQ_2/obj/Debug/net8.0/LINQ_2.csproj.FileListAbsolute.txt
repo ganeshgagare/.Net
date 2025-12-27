@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\.Net\Day7\LINQ_2\bin\Debug\net8.0\LINQ_2.exe
+C:\Users\IET\Desktop\.Net\Day7\LINQ_2\bin\Debug\net8.0\LINQ_2.deps.json
+C:\Users\IET\Desktop\.Net\Day7\LINQ_2\bin\Debug\net8.0\LINQ_2.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Day7\LINQ_2\bin\Debug\net8.0\LINQ_2.dll
+C:\Users\IET\Desktop\.Net\Day7\LINQ_2\bin\Debug\net8.0\LINQ_2.pdb
+C:\Users\IET\Desktop\.Net\Day7\LINQ_2\obj\Debug\net8.0\LINQ_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Day7\LINQ_2\obj\Debug\net8.0\LINQ_2.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Day7\LINQ_2\obj\Debug\net8.0\LINQ_2.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Day7\LINQ_2\obj\Debug\net8.0\LINQ_2.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Day7\LINQ_2\obj\Debug\net8.0\LINQ_2.sourcelink.json
+C:\Users\IET\Desktop\.Net\Day7\LINQ_2\obj\Debug\net8.0\LINQ_2.dll
+C:\Users\IET\Desktop\.Net\Day7\LINQ_2\obj\Debug\net8.0\refint\LINQ_2.dll
+C:\Users\IET\Desktop\.Net\Day7\LINQ_2\obj\Debug\net8.0\LINQ_2.pdb
+C:\Users\IET\Desktop\.Net\Day7\LINQ_2\obj\Debug\net8.0\LINQ_2.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Day7\LINQ_2\obj\Debug\net8.0\ref\LINQ_2.dll
