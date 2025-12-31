@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7319942-F035-4683-8707-33EF30B87D24}|01Demo_MVCTemplate\\01Demo_MVCTemplate.csproj|c:\\users\\iet\\desktop\\.net\\day10-mvc\\01demo_mvctemplate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7319942-F035-4683-8707-33EF30B87D24}|01Demo_MVCTemplate\\01Demo_MVCTemplate.csproj|solutionrelative:01demo_mvctemplate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7319942-F035-4683-8707-33EF30B87D24}|01Demo_MVCTemplate\\01Demo_MVCTemplate.csproj|c:\\users\\iet\\desktop\\.net\\day10-mvc\\01demo_mvctemplate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7319942-F035-4683-8707-33EF30B87D24}|01Demo_MVCTemplate\\01Demo_MVCTemplate.csproj|solutionrelative:01demo_mvctemplate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7319942-F035-4683-8707-33EF30B87D24}|01Demo_MVCTemplate\\01Demo_MVCTemplate.csproj|c:\\users\\iet\\desktop\\.net\\day10-mvc\\01demo_mvctemplate\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7319942-F035-4683-8707-33EF30B87D24}|01Demo_MVCTemplate\\01Demo_MVCTemplate.csproj|solutionrelative:01demo_mvctemplate\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7319942-F035-4683-8707-33EF30B87D24}|01Demo_MVCTemplate\\01Demo_MVCTemplate.csproj|c:\\users\\iet\\desktop\\.net\\day10-mvc\\01demo_mvctemplate\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7319942-F035-4683-8707-33EF30B87D24}|01Demo_MVCTemplate\\01Demo_MVCTemplate.csproj|solutionrelative:01demo_mvctemplate\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD90E465-D9E1-4D79-A78B-1B0DCFE32C5F}|_03Demo_BasicsMVC.Controllers\\_03Demo_BasicsMVC.Controllers.csproj|c:\\users\\iet\\desktop\\.net\\day10-mvc\\_03demo_basicsmvc.controllers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD90E465-D9E1-4D79-A78B-1B0DCFE32C5F}|_03Demo_BasicsMVC.Controllers\\_03Demo_BasicsMVC.Controllers.csproj|solutionrelative:_03demo_basicsmvc.controllers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD90E465-D9E1-4D79-A78B-1B0DCFE32C5F}|_03Demo_BasicsMVC.Controllers\\_03Demo_BasicsMVC.Controllers.csproj|c:\\users\\iet\\desktop\\.net\\day10-mvc\\_03demo_basicsmvc.controllers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD90E465-D9E1-4D79-A78B-1B0DCFE32C5F}|_03Demo_BasicsMVC.Controllers\\_03Demo_BasicsMVC.Controllers.csproj|solutionrelative:_03demo_basicsmvc.controllers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD90E465-D9E1-4D79-A78B-1B0DCFE32C5F}|_03Demo_BasicsMVC.Controllers\\_03Demo_BasicsMVC.Controllers.csproj|c:\\users\\iet\\desktop\\.net\\day10-mvc\\_03demo_basicsmvc.controllers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD90E465-D9E1-4D79-A78B-1B0DCFE32C5F}|_03Demo_BasicsMVC.Controllers\\_03Demo_BasicsMVC.Controllers.csproj|solutionrelative:_03demo_basicsmvc.controllers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD90E465-D9E1-4D79-A78B-1B0DCFE32C5F}|_03Demo_BasicsMVC.Controllers\\_03Demo_BasicsMVC.Controllers.csproj|c:\\users\\iet\\desktop\\.net\\day10-mvc\\_03demo_basicsmvc.controllers\\_03demo_basicsmvc.controllers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD90E465-D9E1-4D79-A78B-1B0DCFE32C5F}|_03Demo_BasicsMVC.Controllers\\_03Demo_BasicsMVC.Controllers.csproj|solutionrelative:_03demo_basicsmvc.controllers\\_03demo_basicsmvc.controllers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD90E465-D9E1-4D79-A78B-1B0DCFE32C5F}|_03Demo_BasicsMVC.Controllers\\_03Demo_BasicsMVC.Controllers.csproj|c:\\users\\iet\\desktop\\.net\\day10-mvc\\_03demo_basicsmvc.controllers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD90E465-D9E1-4D79-A78B-1B0DCFE32C5F}|_03Demo_BasicsMVC.Controllers\\_03Demo_BasicsMVC.Controllers.csproj|solutionrelative:_03demo_basicsmvc.controllers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD90E465-D9E1-4D79-A78B-1B0DCFE32C5F}|_03Demo_BasicsMVC.Controllers\\_03Demo_BasicsMVC.Controllers.csproj|c:\\users\\iet\\desktop\\.net\\day10-mvc\\_03demo_basicsmvc.controllers\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD90E465-D9E1-4D79-A78B-1B0DCFE32C5F}|_03Demo_BasicsMVC.Controllers\\_03Demo_BasicsMVC.Controllers.csproj|solutionrelative:_03demo_basicsmvc.controllers\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD90E465-D9E1-4D79-A78B-1B0DCFE32C5F}|_03Demo_BasicsMVC.Controllers\\_03Demo_BasicsMVC.Controllers.csproj|c:\\users\\iet\\desktop\\.net\\day10-mvc\\_03demo_basicsmvc.controllers\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD90E465-D9E1-4D79-A78B-1B0DCFE32C5F}|_03Demo_BasicsMVC.Controllers\\_03Demo_BasicsMVC.Controllers.csproj|solutionrelative:_03demo_basicsmvc.controllers\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF14619-7B90-45E6-83E4-BC58D89614EA}|02Demo_EmptyTemplate\\02Demo_EmptyTemplate.csproj|c:\\users\\iet\\desktop\\.net\\day10-mvc\\02demo_emptytemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF14619-7B90-45E6-83E4-BC58D89614EA}|02Demo_EmptyTemplate\\02Demo_EmptyTemplate.csproj|solutionrelative:02demo_emptytemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7319942-F035-4683-8707-33EF30B87D24}|01Demo_MVCTemplate\\01Demo_MVCTemplate.csproj|c:\\users\\iet\\desktop\\.net\\day10-mvc\\01demo_mvctemplate\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7319942-F035-4683-8707-33EF30B87D24}|01Demo_MVCTemplate\\01Demo_MVCTemplate.csproj|solutionrelative:01demo_mvctemplate\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7319942-F035-4683-8707-33EF30B87D24}|01Demo_MVCTemplate\\01Demo_MVCTemplate.csproj|c:\\users\\iet\\desktop\\.net\\day10-mvc\\01demo_mvctemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7319942-F035-4683-8707-33EF30B87D24}|01Demo_MVCTemplate\\01Demo_MVCTemplate.csproj|solutionrelative:01demo_mvctemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7319942-F035-4683-8707-33EF30B87D24}|01Demo_MVCTemplate\\01Demo_MVCTemplate.csproj|c:\\users\\iet\\desktop\\.net\\day10-mvc\\01demo_mvctemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7319942-F035-4683-8707-33EF30B87D24}|01Demo_MVCTemplate\\01Demo_MVCTemplate.csproj|solutionrelative:01demo_mvctemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7319942-F035-4683-8707-33EF30B87D24}|01Demo_MVCTemplate\\01Demo_MVCTemplate.csproj|c:\\users\\iet\\desktop\\.net\\day10-mvc\\01demo_mvctemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7319942-F035-4683-8707-33EF30B87D24}|01Demo_MVCTemplate\\01Demo_MVCTemplate.csproj|solutionrelative:01demo_mvctemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7319942-F035-4683-8707-33EF30B87D24}|01Demo_MVCTemplate\\01Demo_MVCTemplate.csproj|c:\\users\\iet\\desktop\\.net\\day10-mvc\\01demo_mvctemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7319942-F035-4683-8707-33EF30B87D24}|01Demo_MVCTemplate\\01Demo_MVCTemplate.csproj|solutionrelative:01demo_mvctemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7319942-F035-4683-8707-33EF30B87D24}|01Demo_MVCTemplate\\01Demo_MVCTemplate.csproj|c:\\users\\iet\\desktop\\.net\\day10-mvc\\01demo_mvctemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7319942-F035-4683-8707-33EF30B87D24}|01Demo_MVCTemplate\\01Demo_MVCTemplate.csproj|solutionrelative:01demo_mvctemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\01Demo_MVCTemplate\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "01Demo_MVCTemplate\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\01Demo_MVCTemplate\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "01Demo_MVCTemplate\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T23:04:30.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\_03Demo_BasicsMVC.Controllers\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "_03Demo_BasicsMVC.Controllers\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\_03Demo_BasicsMVC.Controllers\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "_03Demo_BasicsMVC.Controllers\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T22:19:51.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\_03Demo_BasicsMVC.Controllers\\appsettings.json",
+              "RelativeDocumentMoniker": "_03Demo_BasicsMVC.Controllers\\appsettings.json",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\_03Demo_BasicsMVC.Controllers\\appsettings.json",
+              "RelativeToolTip": "_03Demo_BasicsMVC.Controllers\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-29T22:08:35.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\_03Demo_BasicsMVC.Controllers\\Program.cs",
+              "RelativeDocumentMoniker": "_03Demo_BasicsMVC.Controllers\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\_03Demo_BasicsMVC.Controllers\\Program.cs",
+              "RelativeToolTip": "_03Demo_BasicsMVC.Controllers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T22:06:44.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\01Demo_MVCTemplate\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "01Demo_MVCTemplate\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\01Demo_MVCTemplate\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "01Demo_MVCTemplate\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T21:37:38.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\01Demo_MVCTemplate\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "01Demo_MVCTemplate\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\01Demo_MVCTemplate\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "01Demo_MVCTemplate\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T21:34:53.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\_03Demo_BasicsMVC.Controllers\\Views\\Home\\index.cshtml",
+              "RelativeDocumentMoniker": "_03Demo_BasicsMVC.Controllers\\Views\\Home\\index.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\_03Demo_BasicsMVC.Controllers\\Views\\Home\\index.cshtml",
+              "RelativeToolTip": "_03Demo_BasicsMVC.Controllers\\Views\\Home\\index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T22:25:16.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\01Demo_MVCTemplate\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "01Demo_MVCTemplate\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\01Demo_MVCTemplate\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "01Demo_MVCTemplate\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T23:04:24.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_03Demo_BasicsMVC.Controllers",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\_03Demo_BasicsMVC.Controllers\\_03Demo_BasicsMVC.Controllers.csproj",
+              "RelativeDocumentMoniker": "_03Demo_BasicsMVC.Controllers\\_03Demo_BasicsMVC.Controllers.csproj",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\_03Demo_BasicsMVC.Controllers\\_03Demo_BasicsMVC.Controllers.csproj",
+              "RelativeToolTip": "_03Demo_BasicsMVC.Controllers\\_03Demo_BasicsMVC.Controllers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-29T22:46:11.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\_03Demo_BasicsMVC.Controllers\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "_03Demo_BasicsMVC.Controllers\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\_03Demo_BasicsMVC.Controllers\\appsettings.Development.json",
+              "RelativeToolTip": "_03Demo_BasicsMVC.Controllers\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-29T22:08:21.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\_03Demo_BasicsMVC.Controllers\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "_03Demo_BasicsMVC.Controllers\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\_03Demo_BasicsMVC.Controllers\\Properties\\launchSettings.json",
+              "RelativeToolTip": "_03Demo_BasicsMVC.Controllers\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-29T22:07:27.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\02Demo_EmptyTemplate\\Program.cs",
+              "RelativeDocumentMoniker": "02Demo_EmptyTemplate\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\02Demo_EmptyTemplate\\Program.cs",
+              "RelativeToolTip": "02Demo_EmptyTemplate\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T21:43:26.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\01Demo_MVCTemplate\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "01Demo_MVCTemplate\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\01Demo_MVCTemplate\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "01Demo_MVCTemplate\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-29T21:39:30.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bootstrap-utilities.css",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\01Demo_MVCTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeDocumentMoniker": "01Demo_MVCTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\01Demo_MVCTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeToolTip": "01Demo_MVCTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-29T21:39:22.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\01Demo_MVCTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "01Demo_MVCTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\01Demo_MVCTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeToolTip": "01Demo_MVCTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-29T21:39:20.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\01Demo_MVCTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "01Demo_MVCTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\01Demo_MVCTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "01Demo_MVCTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-29T21:39:18.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\01Demo_MVCTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "01Demo_MVCTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\01Demo_MVCTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "01Demo_MVCTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-29T21:39:14.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\01Demo_MVCTemplate\\Program.cs",
+              "RelativeDocumentMoniker": "01Demo_MVCTemplate\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day10-MVC\\01Demo_MVCTemplate\\Program.cs",
+              "RelativeToolTip": "01Demo_MVCTemplate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T21:34:33.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

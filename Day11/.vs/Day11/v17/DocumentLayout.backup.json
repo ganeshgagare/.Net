@@ -1,0 +1,757 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5321658F-A0AD-4C7F-B50D-0CE4F35CFB1E}|AttributeBasedRouting\\AttributeBasedRouting.csproj|c:\\users\\iet\\desktop\\.net\\day11\\attributebasedrouting\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5321658F-A0AD-4C7F-B50D-0CE4F35CFB1E}|AttributeBasedRouting\\AttributeBasedRouting.csproj|solutionrelative:attributebasedrouting\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC319361-5199-4862-A7A3-BB5B681DCCDF}|ReturnTypesOfActionMethod\\ReturnTypesOfActionMethod.csproj|c:\\users\\iet\\desktop\\.net\\day11\\returntypesofactionmethod\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC319361-5199-4862-A7A3-BB5B681DCCDF}|ReturnTypesOfActionMethod\\ReturnTypesOfActionMethod.csproj|solutionrelative:returntypesofactionmethod\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\.net\\day11\\viewbag_viewdata_tempdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|solutionrelative:viewbag_viewdata_tempdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\.net\\day11\\viewbag_viewdata_tempdata\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|solutionrelative:viewbag_viewdata_tempdata\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\.net\\day11\\viewbag_viewdata_tempdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|solutionrelative:viewbag_viewdata_tempdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\.net\\day11\\viewbag_viewdata_tempdata\\controllers\\democontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|solutionrelative:viewbag_viewdata_tempdata\\controllers\\democontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\.net\\day11\\viewbag_viewdata_tempdata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|solutionrelative:viewbag_viewdata_tempdata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\.net\\day11\\viewbag_viewdata_tempdata\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|solutionrelative:viewbag_viewdata_tempdata\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\.net\\day11\\viewbag_viewdata_tempdata\\views\\demo\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|solutionrelative:viewbag_viewdata_tempdata\\views\\demo\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\.net\\day11\\viewbag_viewdata_tempdata\\views\\demo\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|solutionrelative:viewbag_viewdata_tempdata\\views\\demo\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\.net\\day11\\viewbag_viewdata_tempdata\\views\\demo\\abcd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|solutionrelative:viewbag_viewdata_tempdata\\views\\demo\\abcd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\.net\\day11\\viewbag_viewdata_tempdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|solutionrelative:viewbag_viewdata_tempdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\.net\\day11\\viewbag_viewdata_tempdata\\models\\ietdbviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|solutionrelative:viewbag_viewdata_tempdata\\models\\ietdbviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\.net\\day11\\viewbag_viewdata_tempdata\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|solutionrelative:viewbag_viewdata_tempdata\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\.net\\day11\\viewbag_viewdata_tempdata\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|solutionrelative:viewbag_viewdata_tempdata\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\.net\\day11\\viewbag_viewdata_tempdata\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|solutionrelative:viewbag_viewdata_tempdata\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\.net\\day11\\viewbag_viewdata_tempdata\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|solutionrelative:viewbag_viewdata_tempdata\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\.net\\day11\\viewbag_viewdata_tempdata\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|solutionrelative:viewbag_viewdata_tempdata\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\.net\\day11\\viewbag_viewdata_tempdata\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|solutionrelative:viewbag_viewdata_tempdata\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\.net\\day11\\viewbag_viewdata_tempdata\\views\\home\\getrecords.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|solutionrelative:viewbag_viewdata_tempdata\\views\\home\\getrecords.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\.net\\day11\\viewbag_viewdata_tempdata\\views\\home\\getemps.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01FED2EA-8495-4CFC-A8BB-AC2016ECE4FD}|ViewBag_ViewData_TempData\\ViewBag_ViewData_TempData.csproj|solutionrelative:viewbag_viewdata_tempdata\\views\\home\\getemps.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC319361-5199-4862-A7A3-BB5B681DCCDF}|ReturnTypesOfActionMethod\\ReturnTypesOfActionMethod.csproj|c:\\users\\iet\\desktop\\.net\\day11\\returntypesofactionmethod\\returntypesofactionmethod.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BC319361-5199-4862-A7A3-BB5B681DCCDF}|ReturnTypesOfActionMethod\\ReturnTypesOfActionMethod.csproj|solutionrelative:returntypesofactionmethod\\returntypesofactionmethod.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC319361-5199-4862-A7A3-BB5B681DCCDF}|ReturnTypesOfActionMethod\\ReturnTypesOfActionMethod.csproj|c:\\users\\iet\\desktop\\.net\\day11\\returntypesofactionmethod\\data1\\quote.pdf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC319361-5199-4862-A7A3-BB5B681DCCDF}|ReturnTypesOfActionMethod\\ReturnTypesOfActionMethod.csproj|solutionrelative:returntypesofactionmethod\\data1\\quote.pdf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC319361-5199-4862-A7A3-BB5B681DCCDF}|ReturnTypesOfActionMethod\\ReturnTypesOfActionMethod.csproj|c:\\users\\iet\\desktop\\.net\\day11\\returntypesofactionmethod\\data\\quote.pdf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC319361-5199-4862-A7A3-BB5B681DCCDF}|ReturnTypesOfActionMethod\\ReturnTypesOfActionMethod.csproj|solutionrelative:returntypesofactionmethod\\data\\quote.pdf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC319361-5199-4862-A7A3-BB5B681DCCDF}|ReturnTypesOfActionMethod\\ReturnTypesOfActionMethod.csproj|c:\\users\\iet\\desktop\\.net\\day11\\returntypesofactionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC319361-5199-4862-A7A3-BB5B681DCCDF}|ReturnTypesOfActionMethod\\ReturnTypesOfActionMethod.csproj|solutionrelative:returntypesofactionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC319361-5199-4862-A7A3-BB5B681DCCDF}|ReturnTypesOfActionMethod\\ReturnTypesOfActionMethod.csproj|c:\\users\\iet\\desktop\\.net\\day11\\returntypesofactionmethod\\views\\home\\getdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC319361-5199-4862-A7A3-BB5B681DCCDF}|ReturnTypesOfActionMethod\\ReturnTypesOfActionMethod.csproj|solutionrelative:returntypesofactionmethod\\views\\home\\getdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC319361-5199-4862-A7A3-BB5B681DCCDF}|ReturnTypesOfActionMethod\\ReturnTypesOfActionMethod.csproj|c:\\users\\iet\\desktop\\.net\\day11\\returntypesofactionmethod\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC319361-5199-4862-A7A3-BB5B681DCCDF}|ReturnTypesOfActionMethod\\ReturnTypesOfActionMethod.csproj|solutionrelative:returntypesofactionmethod\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC319361-5199-4862-A7A3-BB5B681DCCDF}|ReturnTypesOfActionMethod\\ReturnTypesOfActionMethod.csproj|c:\\users\\iet\\desktop\\.net\\day11\\returntypesofactionmethod\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC319361-5199-4862-A7A3-BB5B681DCCDF}|ReturnTypesOfActionMethod\\ReturnTypesOfActionMethod.csproj|solutionrelative:returntypesofactionmethod\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5321658F-A0AD-4C7F-B50D-0CE4F35CFB1E}|AttributeBasedRouting\\AttributeBasedRouting.csproj|c:\\users\\iet\\desktop\\.net\\day11\\attributebasedrouting\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5321658F-A0AD-4C7F-B50D-0CE4F35CFB1E}|AttributeBasedRouting\\AttributeBasedRouting.csproj|solutionrelative:attributebasedrouting\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5321658F-A0AD-4C7F-B50D-0CE4F35CFB1E}|AttributeBasedRouting\\AttributeBasedRouting.csproj|c:\\users\\iet\\desktop\\.net\\day11\\attributebasedrouting\\views\\demo\\data.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5321658F-A0AD-4C7F-B50D-0CE4F35CFB1E}|AttributeBasedRouting\\AttributeBasedRouting.csproj|solutionrelative:attributebasedrouting\\views\\demo\\data.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FF6D5E-CDB0-44B4-8ABF-EB8C3F6DD6B1}|Error\\Error.csproj|c:\\users\\iet\\desktop\\.net\\day11\\error\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FF6D5E-CDB0-44B4-8ABF-EB8C3F6DD6B1}|Error\\Error.csproj|solutionrelative:error\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5321658F-A0AD-4C7F-B50D-0CE4F35CFB1E}|AttributeBasedRouting\\AttributeBasedRouting.csproj|c:\\users\\iet\\desktop\\.net\\day11\\attributebasedrouting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5321658F-A0AD-4C7F-B50D-0CE4F35CFB1E}|AttributeBasedRouting\\AttributeBasedRouting.csproj|solutionrelative:attributebasedrouting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCCDF96-D2D3-40A0-B37B-DF86819EA3B4}|ConventialRouting.Controllers\\ConventialRouting.Controllers.csproj|c:\\users\\iet\\desktop\\.net\\day11\\conventialrouting.controllers\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCCDF96-D2D3-40A0-B37B-DF86819EA3B4}|ConventialRouting.Controllers\\ConventialRouting.Controllers.csproj|solutionrelative:conventialrouting.controllers\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCCDF96-D2D3-40A0-B37B-DF86819EA3B4}|ConventialRouting.Controllers\\ConventialRouting.Controllers.csproj|c:\\users\\iet\\desktop\\.net\\day11\\conventialrouting.controllers\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCCDF96-D2D3-40A0-B37B-DF86819EA3B4}|ConventialRouting.Controllers\\ConventialRouting.Controllers.csproj|solutionrelative:conventialrouting.controllers\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FF6D5E-CDB0-44B4-8ABF-EB8C3F6DD6B1}|Error\\Error.csproj|c:\\users\\iet\\desktop\\.net\\day11\\error\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06FF6D5E-CDB0-44B4-8ABF-EB8C3F6DD6B1}|Error\\Error.csproj|solutionrelative:error\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCCDF96-D2D3-40A0-B37B-DF86819EA3B4}|ConventialRouting.Controllers\\ConventialRouting.Controllers.csproj|c:\\users\\iet\\desktop\\.net\\day11\\conventialrouting.controllers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCCDF96-D2D3-40A0-B37B-DF86819EA3B4}|ConventialRouting.Controllers\\ConventialRouting.Controllers.csproj|solutionrelative:conventialrouting.controllers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FF6D5E-CDB0-44B4-8ABF-EB8C3F6DD6B1}|Error\\Error.csproj|c:\\users\\iet\\desktop\\.net\\day11\\error\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FF6D5E-CDB0-44B4-8ABF-EB8C3F6DD6B1}|Error\\Error.csproj|solutionrelative:error\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5321658F-A0AD-4C7F-B50D-0CE4F35CFB1E}|AttributeBasedRouting\\AttributeBasedRouting.csproj|c:\\users\\iet\\desktop\\.net\\day11\\attributebasedrouting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5321658F-A0AD-4C7F-B50D-0CE4F35CFB1E}|AttributeBasedRouting\\AttributeBasedRouting.csproj|solutionrelative:attributebasedrouting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5321658F-A0AD-4C7F-B50D-0CE4F35CFB1E}|AttributeBasedRouting\\AttributeBasedRouting.csproj|c:\\users\\iet\\desktop\\.net\\day11\\attributebasedrouting\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5321658F-A0AD-4C7F-B50D-0CE4F35CFB1E}|AttributeBasedRouting\\AttributeBasedRouting.csproj|solutionrelative:attributebasedrouting\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5321658F-A0AD-4C7F-B50D-0CE4F35CFB1E}|AttributeBasedRouting\\AttributeBasedRouting.csproj|c:\\users\\iet\\desktop\\.net\\day11\\attributebasedrouting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5321658F-A0AD-4C7F-B50D-0CE4F35CFB1E}|AttributeBasedRouting\\AttributeBasedRouting.csproj|solutionrelative:attributebasedrouting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5321658F-A0AD-4C7F-B50D-0CE4F35CFB1E}|AttributeBasedRouting\\AttributeBasedRouting.csproj|c:\\users\\iet\\desktop\\.net\\day11\\attributebasedrouting\\attributebasedrouting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5321658F-A0AD-4C7F-B50D-0CE4F35CFB1E}|AttributeBasedRouting\\AttributeBasedRouting.csproj|solutionrelative:attributebasedrouting\\attributebasedrouting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCCDF96-D2D3-40A0-B37B-DF86819EA3B4}|ConventialRouting.Controllers\\ConventialRouting.Controllers.csproj|c:\\users\\iet\\desktop\\.net\\day11\\conventialrouting.controllers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCCDF96-D2D3-40A0-B37B-DF86819EA3B4}|ConventialRouting.Controllers\\ConventialRouting.Controllers.csproj|solutionrelative:conventialrouting.controllers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCCDF96-D2D3-40A0-B37B-DF86819EA3B4}|ConventialRouting.Controllers\\ConventialRouting.Controllers.csproj|c:\\users\\iet\\desktop\\.net\\day11\\conventialrouting.controllers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FCCDF96-D2D3-40A0-B37B-DF86819EA3B4}|ConventialRouting.Controllers\\ConventialRouting.Controllers.csproj|solutionrelative:conventialrouting.controllers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCCDF96-D2D3-40A0-B37B-DF86819EA3B4}|ConventialRouting.Controllers\\ConventialRouting.Controllers.csproj|c:\\users\\iet\\desktop\\.net\\day11\\conventialrouting.controllers\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FCCDF96-D2D3-40A0-B37B-DF86819EA3B4}|ConventialRouting.Controllers\\ConventialRouting.Controllers.csproj|solutionrelative:conventialrouting.controllers\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCCDF96-D2D3-40A0-B37B-DF86819EA3B4}|ConventialRouting.Controllers\\ConventialRouting.Controllers.csproj|c:\\users\\iet\\desktop\\.net\\day11\\conventialrouting.controllers\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FCCDF96-D2D3-40A0-B37B-DF86819EA3B4}|ConventialRouting.Controllers\\ConventialRouting.Controllers.csproj|solutionrelative:conventialrouting.controllers\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ViewBag_ViewData_TempData\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ViewBag_ViewData_TempData\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T23:31:54.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Program.cs",
+              "RelativeDocumentMoniker": "ViewBag_ViewData_TempData\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Program.cs",
+              "RelativeToolTip": "ViewBag_ViewData_TempData\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:29:25.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ReturnTypesOfActionMethod\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ReturnTypesOfActionMethod\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ReturnTypesOfActionMethod\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ReturnTypesOfActionMethod\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T22:50:28.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\AttributeBasedRouting\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "AttributeBasedRouting\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\AttributeBasedRouting\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "AttributeBasedRouting\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T21:49:46.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ViewBag_ViewData_TempData\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ViewBag_ViewData_TempData\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:28:45.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DemoController1.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Controllers\\DemoController1.cs",
+              "RelativeDocumentMoniker": "ViewBag_ViewData_TempData\\Controllers\\DemoController1.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Controllers\\DemoController1.cs",
+              "RelativeToolTip": "ViewBag_ViewData_TempData\\Controllers\\DemoController1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA0wAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:28:22.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\appsettings.json",
+              "RelativeDocumentMoniker": "ViewBag_ViewData_TempData\\appsettings.json",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\appsettings.json",
+              "RelativeToolTip": "ViewBag_ViewData_TempData\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-31T00:21:02.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Views\\Demo\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ViewBag_ViewData_TempData\\Views\\Demo\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Views\\Demo\\Contact.cshtml",
+              "RelativeToolTip": "ViewBag_ViewData_TempData\\Views\\Demo\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T23:31:23.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Views\\Demo\\About.cshtml",
+              "RelativeDocumentMoniker": "ViewBag_ViewData_TempData\\Views\\Demo\\About.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Views\\Demo\\About.cshtml",
+              "RelativeToolTip": "ViewBag_ViewData_TempData\\Views\\Demo\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T23:31:21.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ABCD.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Views\\Demo\\ABCD.cshtml",
+              "RelativeDocumentMoniker": "ViewBag_ViewData_TempData\\Views\\Demo\\ABCD.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Views\\Demo\\ABCD.cshtml",
+              "RelativeToolTip": "ViewBag_ViewData_TempData\\Views\\Demo\\ABCD.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T23:31:19.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewBag_ViewData_TempData\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ViewBag_ViewData_TempData\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T23:31:49.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Views\\Demo\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewBag_ViewData_TempData\\Views\\Demo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Views\\Demo\\Index.cshtml",
+              "RelativeToolTip": "ViewBag_ViewData_TempData\\Views\\Demo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T23:31:24.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IETDbViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Models\\IETDbViewModel.cs",
+              "RelativeDocumentMoniker": "ViewBag_ViewData_TempData\\Models\\IETDbViewModel.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Models\\IETDbViewModel.cs",
+              "RelativeToolTip": "ViewBag_ViewData_TempData\\Models\\IETDbViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:31:08.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ViewBag_ViewData_TempData\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ViewBag_ViewData_TempData\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:31:02.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "ViewBag_ViewData_TempData\\Models\\Emp.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Models\\Emp.cs",
+              "RelativeToolTip": "ViewBag_ViewData_TempData\\Models\\Emp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:30:55.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ViewBag_ViewData_TempData\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Models\\Customer.cs",
+              "RelativeToolTip": "ViewBag_ViewData_TempData\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:30:46.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Views\\Home\\Display.cshtml",
+              "RelativeDocumentMoniker": "ViewBag_ViewData_TempData\\Views\\Home\\Display.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Views\\Home\\Display.cshtml",
+              "RelativeToolTip": "ViewBag_ViewData_TempData\\Views\\Home\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T23:31:28.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ViewBag_ViewData_TempData\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ViewBag_ViewData_TempData\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T23:32:11.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetRecords.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Views\\Home\\GetRecords.cshtml",
+              "RelativeDocumentMoniker": "ViewBag_ViewData_TempData\\Views\\Home\\GetRecords.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Views\\Home\\GetRecords.cshtml",
+              "RelativeToolTip": "ViewBag_ViewData_TempData\\Views\\Home\\GetRecords.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T23:31:42.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ViewBag_ViewData_TempData\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ViewBag_ViewData_TempData\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T23:31:52.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetEmps.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Views\\Home\\GetEmps.cshtml",
+              "RelativeDocumentMoniker": "ViewBag_ViewData_TempData\\Views\\Home\\GetEmps.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ViewBag_ViewData_TempData\\Views\\Home\\GetEmps.cshtml",
+              "RelativeToolTip": "ViewBag_ViewData_TempData\\Views\\Home\\GetEmps.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T23:31:29.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReturnTypesOfActionMethod",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ReturnTypesOfActionMethod\\ReturnTypesOfActionMethod.csproj",
+              "RelativeDocumentMoniker": "ReturnTypesOfActionMethod\\ReturnTypesOfActionMethod.csproj",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ReturnTypesOfActionMethod\\ReturnTypesOfActionMethod.csproj",
+              "RelativeToolTip": "ReturnTypesOfActionMethod\\ReturnTypesOfActionMethod.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-30T23:23:53.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "quote.pdf",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ReturnTypesOfActionMethod\\Data1\\quote.pdf",
+              "RelativeDocumentMoniker": "ReturnTypesOfActionMethod\\Data1\\quote.pdf",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ReturnTypesOfActionMethod\\Data1\\quote.pdf",
+              "RelativeToolTip": "ReturnTypesOfActionMethod\\Data1\\quote.pdf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-30T23:21:55.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ReturnTypesOfActionMethod\\Program.cs",
+              "RelativeDocumentMoniker": "ReturnTypesOfActionMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ReturnTypesOfActionMethod\\Program.cs",
+              "RelativeToolTip": "ReturnTypesOfActionMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T23:06:05.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetData.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ReturnTypesOfActionMethod\\Views\\Home\\GetData.cshtml",
+              "RelativeDocumentMoniker": "ReturnTypesOfActionMethod\\Views\\Home\\GetData.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ReturnTypesOfActionMethod\\Views\\Home\\GetData.cshtml",
+              "RelativeToolTip": "ReturnTypesOfActionMethod\\Views\\Home\\GetData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T22:55:19.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ReturnTypesOfActionMethod\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ReturnTypesOfActionMethod\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ReturnTypesOfActionMethod\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ReturnTypesOfActionMethod\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T22:55:04.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ReturnTypesOfActionMethod\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ReturnTypesOfActionMethod\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ReturnTypesOfActionMethod\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ReturnTypesOfActionMethod\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T22:55:27.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "quote.pdf",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ReturnTypesOfActionMethod\\Data\\quote.pdf",
+              "RelativeDocumentMoniker": "ReturnTypesOfActionMethod\\Data\\quote.pdf",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ReturnTypesOfActionMethod\\Data\\quote.pdf",
+              "RelativeToolTip": "ReturnTypesOfActionMethod\\Data\\quote.pdf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-30T22:52:24.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\Error\\Program.cs",
+              "RelativeDocumentMoniker": "Error\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\Error\\Program.cs",
+              "RelativeToolTip": "Error\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T22:17:21.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ConventialRouting.Controllers\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "ConventialRouting.Controllers\\Controllers\\DemoController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ConventialRouting.Controllers\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "ConventialRouting.Controllers\\Controllers\\DemoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:50:23.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\AttributeBasedRouting\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "AttributeBasedRouting\\Controllers\\DemoController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\AttributeBasedRouting\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "AttributeBasedRouting\\Controllers\\DemoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T21:36:07.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Data.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\AttributeBasedRouting\\Views\\Demo\\Data.cshtml",
+              "RelativeDocumentMoniker": "AttributeBasedRouting\\Views\\Demo\\Data.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\AttributeBasedRouting\\Views\\Demo\\Data.cshtml",
+              "RelativeToolTip": "AttributeBasedRouting\\Views\\Demo\\Data.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T21:53:14.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ConventialRouting.Controllers\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ConventialRouting.Controllers\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ConventialRouting.Controllers\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ConventialRouting.Controllers\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:49:24.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\AttributeBasedRouting\\Program.cs",
+              "RelativeDocumentMoniker": "AttributeBasedRouting\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\AttributeBasedRouting\\Program.cs",
+              "RelativeToolTip": "AttributeBasedRouting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T21:45:18.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\Error\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Error\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\Error\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Error\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T22:16:57.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ConventialRouting.Controllers\\Program.cs",
+              "RelativeDocumentMoniker": "ConventialRouting.Controllers\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ConventialRouting.Controllers\\Program.cs",
+              "RelativeToolTip": "ConventialRouting.Controllers\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:51:09.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\AttributeBasedRouting\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "AttributeBasedRouting\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\AttributeBasedRouting\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "AttributeBasedRouting\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T21:57:09.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\AttributeBasedRouting\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AttributeBasedRouting\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\AttributeBasedRouting\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AttributeBasedRouting\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T21:55:29.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\AttributeBasedRouting\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AttributeBasedRouting\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\AttributeBasedRouting\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AttributeBasedRouting\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T21:51:59.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\Error\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Error\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\Error\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Error\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T22:16:47.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AttributeBasedRouting.csproj",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\AttributeBasedRouting\\AttributeBasedRouting.csproj",
+              "RelativeDocumentMoniker": "AttributeBasedRouting\\AttributeBasedRouting.csproj",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\AttributeBasedRouting\\AttributeBasedRouting.csproj",
+              "RelativeToolTip": "AttributeBasedRouting\\AttributeBasedRouting.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-30T21:49:09.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ConventialRouting.Controllers\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConventialRouting.Controllers\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ConventialRouting.Controllers\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ConventialRouting.Controllers\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T20:55:19.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ConventialRouting.Controllers\\Views\\Demo\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConventialRouting.Controllers\\Views\\Demo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ConventialRouting.Controllers\\Views\\Demo\\Index.cshtml",
+              "RelativeToolTip": "ConventialRouting.Controllers\\Views\\Demo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T20:54:18.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ConventialRouting.Controllers\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConventialRouting.Controllers\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ConventialRouting.Controllers\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "ConventialRouting.Controllers\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T20:53:49.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ConventialRouting.Controllers\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ConventialRouting.Controllers\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Day11\\ConventialRouting.Controllers\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ConventialRouting.Controllers\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:50:37.791Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
